@@ -23,9 +23,9 @@ weatherSearch = () => {
         result
       ) {
         if (err) console.log(err);
-        const name = result[0].location.name;
-        const date = result[0].current.date;
-        const temp = result[0].current.temperature;
+        const name = result[0].location.name,
+          date = result[0].current.date,
+          temp = result[0].current.temperature;
 
         const log = `\nname: ${name}\ndate: ${date}\ntemp: ${temp} F\n--------------------`;
 
