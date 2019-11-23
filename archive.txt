@@ -1,0 +1,17 @@
+
+name: Oakland, CA
+date: 2019-11-22
+temp: 57 F
+--------------------
+name: Oakland, CA
+date: 2019-11-22
+temp: 57 F
+--------------------
+name: Oakland, CA
+date: 2019-11-22
+temp: 57 F
+--------------------
+name: Oakland, CA
+date: 2019-11-22
+temp: 56 F
+--------------------
