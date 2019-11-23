@@ -19,3 +19,15 @@ name: Davis, CA
 date: 2019-11-23
 temp: 54 F
 --------------------
+name: Oakland, CA
+date: 2019-11-23
+temp: 60 F
+--------------------
+name: Davis, CA
+date: 2019-11-23
+temp: 61 F
+--------------------
+name: Citrus Heights, CA
+date: 2019-11-23
+temp: 58 F
+--------------------
